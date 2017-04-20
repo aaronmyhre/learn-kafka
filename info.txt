@@ -1,0 +1,9 @@
+# info
+Kafka - a distributed streaming platfrom. aka, a messaging system. 
+
+
+# Links
+https://kafka.apache.org/ - website
+https://www.apache.org/dyn/closer.cgi?path=/kafka/0.10.2.0/kafka_2.11-0.10.2.0.tgz - downloads
+https://kafka.apache.org/quickstart - quickstart
+https://sookocheff.com/post/kafka/kafka-in-a-nutshell/ - kafka in a nutshell
