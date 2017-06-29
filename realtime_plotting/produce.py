@@ -10,7 +10,7 @@ import json
 #mkvirtualenv -p python3
 #pip install pip install kafka-python
 
-topic = "test2"
+topic = "test3"
 server='localhost:9092'
 
 producer = KafkaProducer(bootstrap_servers=server,
@@ -32,4 +32,4 @@ while True:
     #producer.send(topic, b'1')
     #producer.send(topic, order)
     producer.send(topic, order)
-    #time.sleep()
+    time.sleep(.05)
